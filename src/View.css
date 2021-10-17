@@ -1,0 +1,45 @@
+table{
+    position: absolute !important;
+    right: 45vw !important;
+    width: 30vw !important;
+    top:42vh !important;
+    color: darkgreen !important;
+    font-family: "Cherry", Arial, Helvetica, sans-serif !important;
+
+}
+input{
+    position: absolute !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-left: none !important;
+    top:32vh !important;
+    color: darkgreen !important;
+    outline: none !important;
+    font-family: "Cherry", Arial, Helvetica, sans-serif !important;
+
+}
+#end{
+    right: 20vw !important;
+}
+#start{
+    right: 80vw !important;
+}
+button{
+    position: absolute !important;
+    top:32vh !important;
+    right: 8vw !important;
+    color: white !important;
+    background-color: darkgreen !important;
+    border: none !important;
+    height: 5vh !important;
+    font-family: "Cherry", Arial, Helvetica, sans-serif !important;
+
+}
+p{
+    position: absolute !important;
+    top:12vh !important;
+    font-family: "Cherry", Arial, Helvetica, sans-serif;
+    color: darkgreen !important;
+    font-size:20px !important;
+    right: 50% !important;
+}
